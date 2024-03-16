@@ -1,4 +1,4 @@
-//referência: https://youtu.be/UCxqObWjtnA?list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL
+//referência: https://youtu.be/LBONRjJ3mSA?list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL
 package model;
 //atributos
 public class Veiculo {
