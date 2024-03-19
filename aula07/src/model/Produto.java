@@ -1,4 +1,6 @@
-//referência: //referência: https://www.youtube.com/watch?v=YpEbYp-1Hpw&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=13
+//referência: https://www.youtube.com/watch?v=YpEbYp-1Hpw&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=13
+//referência: https://www.youtube.com/watch?v=gOa88DOzEfc&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=14
+//referência: https://www.youtube.com/watch?v=eUhH-x_bGlY&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=15
 package model;
 
 public class Produto {
