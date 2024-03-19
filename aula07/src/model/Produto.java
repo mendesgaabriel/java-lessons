@@ -1,3 +1,4 @@
+//referência: //referência: https://www.youtube.com/watch?v=YpEbYp-1Hpw&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=13
 package model;
 
 public class Produto {
