@@ -1,4 +1,5 @@
-//  https://www.youtube.com/watch?v=Y-LGEgcIWJA&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=17
+//referência: https://www.youtube.com/watch?v=Y-LGEgcIWJA&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=16
+//referência: https://www.youtube.com/watch?v=Ti_POE9kztY&list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL&index=17
 package controller;
 //model=package ; Produto = classe
 import model.Produto;
