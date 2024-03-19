@@ -1,4 +1,4 @@
-//referência: https://youtu.be/tGK7RDBSyAs?list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL
+//referência: https://youtu.be/uGg-OU-ZsVo?list=PLfDIQS3HDSglAa4I5Rab5GZVM5zJkuVBL
 package model;
 
 public abstract class Conta {
@@ -13,7 +13,7 @@ public abstract class Conta {
     public void saca(double valor){
         double saldoAtual = this.saldo - valor;
         if(saldoAtual > 0 ){
-        this.saldo -= valor;
+            this.saldo -= valor;
         }
         else{
             System.out.println("Não foi possível realiar o saque.");
@@ -21,7 +21,7 @@ public abstract class Conta {
     }
     public void atualiza(double taxa){ //taxa ficcional, pois não foi informada no diagrama.
         if(taxa > 0 ){
-        this.saldo += this.saldo * (taxa/100); // taxa de 10%
+            this.saldo += this.saldo * (taxa/100); // taxa de 10%
         }
         else{
             System.out.println("A taxa deve ser maior que ZERO.");
